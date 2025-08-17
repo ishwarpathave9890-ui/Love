@@ -1,6 +1,6 @@
 # I love you
 
-A Pen created on CodePen.
+
 
 Original URL: [https://codepen.io/ralfb/pen/GRQwxE](https://codepen.io/ralfb/pen/GRQwxE).
 
